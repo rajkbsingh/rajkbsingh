@@ -6,7 +6,7 @@ I'm Raj Kumar Baliyar Singh, a researcher passionate about exploring the interse
 
 ## About Me
 
-- 🎓 I doing PhD in AI/ML from VIT-AP.
+- 🎓 I doing PhD in AI/ML from Vellore Institute of Technology-Amravati Campus.
 - 💼 Currently, I'm working as a Research Scholar at VIT-AP.
 - 💻 My research interests include:
   - Edge Computing
